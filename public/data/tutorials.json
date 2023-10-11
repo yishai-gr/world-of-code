@@ -1,0 +1,576 @@
+[
+  {
+    "id": 12345678,
+    "tag": "html",
+    "heading": "Create Form",
+    "description": "Learn how to create interactive forms in HTML.",
+    "image": "/images/html-logo.png"
+  },
+  {
+    "id": 23456789,
+    "tag": "html",
+    "heading": "HTML Semantic Fundamentals",
+    "description": "Learn about semantic HTML elements and their importance.",
+    "image": "/images/html-logo.png"
+  },
+  {
+    "id": 34567890,
+    "tag": "html",
+    "heading": "HTML5 Video and Audio",
+    "description": "Explore HTML5 video and audio tags for multimedia content.",
+    "image": "/images/html-logo.png"
+  },
+  {
+    "id": 45678901,
+    "tag": "css",
+    "heading": "CSS Layouts",
+    "description": "Master various CSS layout techniques for web page design.",
+    "image": "/images/css-logo.png"
+  },
+  {
+    "id": 56789012,
+    "tag": "css",
+    "heading": "Responsive Web Design with CSS",
+    "description": "Learn how to create responsive web designs using CSS.",
+    "image": "/images/css-logo.png"
+  },
+  {
+    "id": 67890123,
+    "tag": "javascript",
+    "heading": "JavaScript DOM",
+    "description": "Explore the Document Object Model (DOM) and how to manipulate web page elements with JavaScript.",
+    "image": "/images/javascript-logo.png"
+  },
+  {
+    "id": 78901234,
+    "tag": "javascript",
+    "heading": "Asynchronous Programming with JavaScript",
+    "description": "Learn asynchronous programming techniques in JavaScript for handling tasks like data fetching.",
+    "image": "/images/javascript-logo.png"
+  },
+  {
+    "id": 89012345,
+    "tag": "javascript",
+    "heading": "JavaScript Frameworks",
+    "description": "Discover popular JavaScript frameworks like React, Angular, and Vue.js.",
+    "image": "/images/javascript-logo.png"
+  },
+  {
+    "id": 90123456,
+    "tag": "python",
+    "heading": "Python for Data Science",
+    "description": "Learn Python for data science and analysis.",
+    "image": "/images/python-logo.png"
+  },
+  {
+    "id": 12345670,
+    "tag": "python",
+    "heading": "Web Scraping with Python",
+    "description": "Explore web scraping techniques using Python.",
+    "image": "/images/python-logo.png"
+  },
+  {
+    "id": 23456781,
+    "tag": "java",
+    "heading": "Java Basics",
+    "description": "Learn the fundamentals of Java programming language.",
+    "image": "/images/java-logo.png"
+  },
+  {
+    "id": 34567892,
+    "tag": "java",
+    "heading": "Java Object-Oriented Programming",
+    "description": "Explore object-oriented programming principles in Java.",
+    "image": "/images/java-logo.png"
+  },
+  {
+    "id": 45678903,
+    "tag": "c++",
+    "heading": "C++ Basics",
+    "description": "Learn the fundamentals of C++ programming language.",
+    "image": "/images/c++-logo.png"
+  },
+  {
+    "id": 56789014,
+    "tag": "c++",
+    "heading": "Advanced C++ Programming",
+    "description": "Dive deeper into advanced C++ concepts and techniques.",
+    "image": "/images/c++-logo.png"
+  },
+  {
+    "id": 67890125,
+    "tag": "ruby",
+    "heading": "Ruby Essentials",
+    "description": "Discover the beauty of Ruby. Learn the fundamentals and build Ruby applications.",
+    "image": "/images/ruby-logo.png"
+  },
+  {
+    "id": 78901236,
+    "tag": "ruby",
+    "heading": "Advanced Ruby Programming",
+    "description": "Take your Ruby skills to the next level with advanced programming concepts.",
+    "image": "/images/ruby-logo.png"
+  },
+  {
+    "id": 89012347,
+    "tag": "php",
+    "heading": "PHP Web Development",
+    "description": "Get started with PHP for web development. Create dynamic web applications with PHP.",
+    "image": "/images/php-logo.png"
+  },
+  {
+    "id": 90123458,
+    "tag": "php",
+    "heading": "Advanced PHP Programming",
+    "description": "Explore advanced PHP topics and techniques for building robust web applications.",
+    "image": "/images/php-logo.png"
+  },
+  {
+    "id": 12345679,
+    "tag": "c#",
+    "heading": "C# Programming",
+    "description": "Master C#, a versatile and powerful programming language. Develop Windows and web applications.",
+    "image": "/images/c-sharp-logo.png"
+  },
+  {
+    "id": 23456780,
+    "tag": "c#",
+    "heading": "Advanced C# Programming",
+    "description": "Take your C# programming skills to the next level with advanced concepts and practices.",
+    "image": "/images/c-sharp-logo.png"
+  },
+  {
+    "id": 34567891,
+    "tag": "swift",
+    "heading": "Swift Programming",
+    "description": "Learn Swift, the language for iOS app development. Build amazing apps for iPhone and iPad.",
+    "image": "/images/swift-logo.png"
+  },
+  {
+    "id": 45678902,
+    "tag": "swift",
+    "heading": "Advanced Swift Programming",
+    "description": "Dive deeper into Swift programming with advanced topics and techniques.",
+    "image": "/images/swift-logo.png"
+  },
+  {
+    "id": 56789013,
+    "tag": "go",
+    "heading": "Go Programming",
+    "description": "Explore the simplicity and efficiency of Go. Build scalable and high-performance applications.",
+    "image": "/images/go-logo.png"
+  },
+  {
+    "id": 67890124,
+    "tag": "go",
+    "heading": "Advanced Go Programming",
+    "description": "Take your Go programming skills to the next level with advanced techniques and best practices.",
+    "image": "/images/go-logo.png"
+  },
+  {
+    "id": 78901235,
+    "tag": "typescript",
+    "heading": "TypeScript Fundamentals",
+    "description": "Dive into TypeScript, a superset of JavaScript. Enhance your web development skills.",
+    "image": "/images/typescript-logo.png"
+  },
+  {
+    "id": 89012346,
+    "tag": "typescript",
+    "heading": "Advanced TypeScript Programming",
+    "description": "Explore advanced TypeScript topics and techniques for building robust web applications.",
+    "image": "/images/typescript-logo.png"
+  },
+  {
+    "id": 90123457,
+    "tag": "Django",
+    "heading": "Django Web Framework",
+    "description": "Learn Django, a high-level Python web framework for building robust and scalable web applications.",
+    "image": "/images/django-logo.png"
+  },
+  {
+    "id": 12345671,
+    "tag": "Django",
+    "heading": "Advanced Django Programming",
+    "description": "Take your Django skills to the next level with advanced web development techniques.",
+    "image": "/images/django-logo.png"
+  },
+  {
+    "id": 23456782,
+    "tag": "Ruby on Rails",
+    "heading": "Ruby on Rails",
+    "description": "Master Ruby on Rails, a popular framework for developing web applications with Ruby.",
+    "image": "/images/ruby-on-rails-logo.png"
+  },
+  {
+    "id": 34567893,
+    "tag": "Ruby on Rails",
+    "heading": "Advanced Ruby on Rails Development",
+    "description": "Dive deeper into Ruby on Rails with advanced topics and techniques for web development.",
+    "image": "/images/ruby-on-rails-logo.png"
+  },
+  {
+    "id": 45678904,
+    "tag": "Spring Framework",
+    "heading": "Spring Framework Basics",
+    "description": "Explore the fundamentals of the Spring Framework for Java web development.",
+    "image": "/images/spring-logo.png"
+  },
+  {
+    "id": 56789015,
+    "tag": "Spring Framework",
+    "heading": "Advanced Spring Framework Development",
+    "description": "Take your Spring Framework skills to the next level with advanced Java web development techniques.",
+    "image": "/images/spring-logo.png"
+  },
+  {
+    "id": 67890126,
+    "tag": ".NET Framework",
+    "heading": ".NET Framework Basics",
+    "description": "Get started with .NET Framework for Windows application development.",
+    "image": "/images/net-logo.png"
+  },
+  {
+    "id": 78901237,
+    "tag": ".NET Framework",
+    "heading": "Advanced .NET Framework Development",
+    "description": "Explore advanced topics in .NET Framework for building feature-rich Windows applications.",
+    "image": "/images/net-logo.png"
+  },
+  {
+    "id": 89012348,
+    "tag": "Flask",
+    "heading": "Flask Web Framework",
+    "description": "Get started with Flask, a micro web framework for Python. Build web apps efficiently.",
+    "image": "/images/flask-logo.png"
+  },
+  {
+    "id": 90123459,
+    "tag": "Flask",
+    "heading": "Advanced Flask Development",
+    "description": "Dive deeper into Flask with advanced Python web development techniques.",
+    "image": "/images/flask-logo.png"
+  },
+  {
+    "id": 12345680,
+    "tag": "Laravel",
+    "heading": "Laravel PHP Framework Basics",
+    "description": "Learn the basics of Laravel, a PHP framework for web development.",
+    "image": "/images/laravel-logo.png"
+  },
+  {
+    "id": 23456791,
+    "tag": "Laravel",
+    "heading": "Advanced Laravel Development",
+    "description": "Explore advanced Laravel topics and techniques for building modern web applications.",
+    "image": "/images/laravel-logo.png"
+  },
+  {
+    "id": 34567892,
+    "tag": "Node.js",
+    "heading": "Node.js Fundamentals",
+    "description": "Explore the fundamentals of Node.js, a JavaScript runtime for building scalable and real-time applications.",
+    "image": "/images/node.js-logo.png"
+  },
+  {
+    "id": 45678905,
+    "tag": "Node.js",
+    "heading": "Advanced Node.js Development",
+    "description": "Take your Node.js skills to the next level with advanced techniques for building real-time applications.",
+    "image": "/images/node.js-logo.png"
+  },
+  {
+    "id": 56789016,
+    "tag": "Bootstrap",
+    "heading": "Bootstrap CSS Framework",
+    "description": "Master Bootstrap, a popular CSS framework for creating responsive and stylish web pages.",
+    "image": "/images/bootstrap-logo.png"
+  },
+  {
+    "id": 67890137,
+    "tag": "Bootstrap",
+    "heading": "Advanced Bootstrap Development",
+    "description": "Dive deeper into Bootstrap with advanced techniques for creating stunning web designs.",
+    "image": "/images/bootstrap-logo.png"
+  },
+  {
+    "id": 78901248,
+    "tag": "Unity",
+    "heading": "Unity Game Engine Basics",
+    "description": "Get started with Unity, a versatile game engine used for both 2D and 3D game development.",
+    "image": "/images/unity-logo.png"
+  },
+  {
+    "id": 89012359,
+    "tag": "Unity",
+    "heading": "Advanced Unity Game Development",
+    "description": "Take your Unity game development skills to the next level with advanced 2D and 3D techniques.",
+    "image": "/images/unity-logo.png"
+  },
+  {
+    "id": 90123460,
+    "tag": "Xamarin",
+    "heading": "Xamarin Cross-Platform Development",
+    "description": "Build cross-platform mobile apps with Xamarin, using a single codebase for iOS and Android.",
+    "image": "/images/xamarin-logo.png"
+  },
+  {
+    "id": 12345681,
+    "tag": "Xamarin",
+    "heading": "Advanced Xamarin Development",
+    "description": "Dive deeper into Xamarin with advanced techniques for cross-platform mobile app development.",
+    "image": "/images/xamarin-logo.png"
+  },
+  {
+    "id": 23456792,
+    "tag": "React.js",
+    "heading": "React.js Basics",
+    "description": "Build dynamic and interactive user interfaces with React, a JavaScript library.",
+    "image": "/images/react-logo.png"
+  },
+  {
+    "id": 34567894,
+    "tag": "React.js",
+    "heading": "Advanced React.js Development",
+    "description": "Take your React.js skills to the next level with advanced techniques for building complex UIs.",
+    "image": "/images/react-logo.png"
+  },
+  {
+    "id": 45678906,
+    "tag": "Angular",
+    "heading": "Angular Basics",
+    "description": "Create powerful and scalable web applications with Angular, a popular front-end framework.",
+    "image": "/images/angular-logo.png"
+  },
+  {
+    "id": 56789017,
+    "tag": "Angular",
+    "heading": "Advanced Angular Development",
+    "description": "Dive deeper into Angular with advanced techniques for building complex web applications.",
+    "image": "/images/angular-logo.png"
+  },
+  {
+    "id": 67890138,
+    "tag": "Vue.js",
+    "heading": "Vue.js Basics",
+    "description": "Develop interactive and maintainable web applications using Vue.js, a progressive JavaScript framework.",
+    "image": "/images/vue-logo.png"
+  },
+  {
+    "id": 78901249,
+    "tag": "Vue.js",
+    "heading": "Advanced Vue.js Development",
+    "description": "Take your Vue.js skills to the next level with advanced techniques for building modern web apps.",
+    "image": "/images/vue-logo.png"
+  },
+  {
+    "id": 89012360,
+    "tag": "jQuery",
+    "heading": "jQuery Fundamentals",
+    "description": "Simplify HTML DOM manipulation, event handling, and more with jQuery, a fast and feature-rich JavaScript library.",
+    "image": "/images/jQuery-logo.png"
+  },
+  {
+    "id": 90123461,
+    "tag": "jQuery",
+    "heading": "Advanced jQuery Techniques",
+    "description": "Explore advanced jQuery techniques for building interactive web applications.",
+    "image": "/images/jQuery-logo.png"
+  },
+  {
+    "id": 12345682,
+    "tag": "TensorFlow",
+    "heading": "TensorFlow Fundamentals",
+    "description": "Explore the basics of TensorFlow, an open-source machine learning framework.",
+    "image": "/images/tensorflow-logo.png"
+  },
+  {
+    "id": 23456793,
+    "tag": "TensorFlow",
+    "heading": "Advanced TensorFlow Development",
+    "description": "Dive deeper into TensorFlow with advanced techniques for building and training deep neural networks.",
+    "image": "/images/tensorflow-logo.png"
+  },
+  {
+    "id": 34567895,
+    "tag": "Pandas",
+    "heading": "Pandas Basics",
+    "description": "Analyze and manipulate data easily with Pandas, a fast, powerful, and flexible open-source data analysis and manipulation tool.",
+    "image": "/images/pandas-logo.png"
+  },
+  {
+    "id": 45678907,
+    "tag": "Pandas",
+    "heading": "Advanced Pandas Techniques",
+    "description": "Take your data analysis skills to the next level with advanced Pandas techniques and data manipulation.",
+    "image": "/images/pandas-logo.png"
+  },
+  {
+    "id": 56789018,
+    "tag": "NumPy",
+    "heading": "NumPy Basics",
+    "description": "Get started with numerical computing and data analysis using NumPy, a fundamental package for scientific computing with Python.",
+    "image": "/images/numpy-logo.png"
+  },
+  {
+    "id": 67890139,
+    "tag": "NumPy",
+    "heading": "Advanced NumPy Techniques",
+    "description": "Explore advanced numerical computing and data analysis techniques with NumPy.",
+    "image": "/images/numpy-logo.png"
+  },
+  {
+    "id": 78901250,
+    "tag": "Express.js",
+    "heading": "Express.js Fundamentals",
+    "description": "Build fast, unopinionated, and minimalist web applications using Node.js and Express.js, a flexible Node.js web application framework.",
+    "image": "/images/express-logo.png"
+  },
+  {
+    "id": 89012361,
+    "tag": "Express.js",
+    "heading": "Advanced Express.js Development",
+    "description": "Take your Node.js and Express.js skills to the next level with advanced web application development techniques.",
+    "image": "/images/express-logo.png"
+  },
+  {
+    "id": 12345683,
+    "tag": "html",
+    "heading": "HTML Forms and Input Elements",
+    "description": "Learn how to create various types of forms and input elements in HTML for user interaction.",
+    "image": "/images/html-logo.png"
+  },
+  {
+    "id": 23456794,
+    "tag": "css",
+    "heading": "Advanced CSS Layouts",
+    "description": "Explore advanced CSS techniques for creating complex and responsive layouts.",
+    "image": "/images/css-logo.png"
+  },
+  {
+    "id": 34567896,
+    "tag": "javascript",
+    "heading": "JavaScript Promises and Asynchronous Programming",
+    "description": "Master JavaScript promises and asynchronous programming to build responsive web applications.",
+    "image": "/images/javascript-logo.png"
+  },
+  {
+    "id": 45678908,
+    "tag": "python",
+    "heading": "Data Visualization with Python",
+    "description": "Learn how to create compelling data visualizations using Python libraries like Matplotlib and Seaborn.",
+    "image": "/images/python-logo.png"
+  },
+  {
+    "id": 56789019,
+    "tag": "java",
+    "heading": "Java Swing GUI Programming",
+    "description": "Explore Java Swing for building graphical user interfaces (GUIs) in Java applications.",
+    "image": "/images/java-logo.png"
+  },
+  {
+    "id": 67890140,
+    "tag": "c++",
+    "heading": "Advanced C++ Templates",
+    "description": "Dive into advanced C++ template metaprogramming techniques for generic programming.",
+    "image": "/images/c++-logo.png"
+  },
+  {
+    "id": 78901251,
+    "tag": "ruby",
+    "heading": "Ruby Metaprogramming",
+    "description": "Discover the power of metaprogramming in Ruby and how to use it effectively.",
+    "image": "/images/ruby-logo.png"
+  },
+  {
+    "id": 89012362,
+    "tag": "php",
+    "heading": "PHP Object-Oriented Programming (OOP)",
+    "description": "Learn object-oriented programming principles and practices in PHP for scalable web applications.",
+    "image": "/images/php-logo.png"
+  },
+  {
+    "id": 90123462,
+    "tag": "c#",
+    "heading": "ASP.NET Core Web Development",
+    "description": "Build modern web applications with ASP.NET Core using C# for server-side development.",
+    "image": "/images/c-sharp-logo.png"
+  },
+  {
+    "id": 12345684,
+    "tag": "swift",
+    "heading": "Swift UI Development",
+    "description": "Explore SwiftUI, the modern UI framework for building apps in Swift for all Apple platforms.",
+    "image": "/images/swift-logo.png"
+  },
+  {
+    "id": 23456795,
+    "tag": "go",
+    "heading": "Go Concurrency Patterns",
+    "description": "Master Go's concurrency patterns and goroutines for efficient concurrent programming.",
+    "image": "/images/go-logo.png"
+  },
+  {
+    "id": 34567897,
+    "tag": "typescript",
+    "heading": "Advanced TypeScript Patterns",
+    "description": "Dive deeper into advanced TypeScript patterns and best practices for scalable web development.",
+    "image": "/images/typescript-logo.png"
+  },
+  {
+    "id": 45678909,
+    "tag": "Django",
+    "heading": "Building RESTful APIs with Django",
+    "description": "Learn how to create RESTful APIs in Django for building modern web and mobile applications.",
+    "image": "/images/django-logo.png"
+  },
+  {
+    "id": 56789020,
+    "tag": "Ruby on Rails",
+    "heading": "Ruby on Rails Testing",
+    "description": "Explore testing techniques and best practices in Ruby on Rails applications.",
+    "image": "/images/ruby-on-rails-logo.png"
+  },
+  {
+    "id": 67890141,
+    "tag": "Spring Framework",
+    "heading": "Spring Boot Microservices",
+    "description": "Learn how to build microservices-based applications using Spring Boot and Spring Cloud.",
+    "image": "/images/spring-logo.png"
+  },
+  {
+    "id": 78901252,
+    "tag": ".NET Framework",
+    "heading": "Windows Forms Applications with .NET",
+    "description": "Build Windows desktop applications using Windows Forms and .NET Framework.",
+    "image": "/images/net-logo.png"
+  },
+  {
+    "id": 89012363,
+    "tag": "Flask",
+    "heading": "Deploying Flask Applications",
+    "description": "Learn how to deploy Flask web applications to production servers for public access.",
+    "image": "/images/flask-logo.png"
+  },
+  {
+    "id": 90123463,
+    "tag": "Laravel",
+    "heading": "Laravel Testing and Debugging",
+    "description": "Master testing and debugging techniques in Laravel for bug-free web applications.",
+    "image": "/images/laravel-logo.png"
+  },
+  {
+    "id": 12345685,
+    "tag": "Node.js",
+    "heading": "Real-Time Web Applications with Socket.io",
+    "description": "Build real-time web applications using Socket.io and Node.js for instant data updates.",
+    "image": "/images/node.js-logo.png"
+  },
+  {
+    "id": 23456796,
+    "tag": "Bootstrap",
+    "heading": "Customizing Bootstrap Themes",
+    "description": "Learn how to customize and create unique Bootstrap themes for your web projects.",
+    "image": "/images/bootstrap-logo.png"
+  }
+]

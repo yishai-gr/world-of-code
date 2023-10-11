@@ -1,0 +1,212 @@
+[
+  {
+    "id": 12345678,
+    "tag": "html",
+    "heading": "HTML Course",
+    "description": "A comprehensive course on HTML. Learn everything you need to know about HTML and how to use it.",
+    "image": "/images/html-logo.png"
+  },
+  {
+    "id": 23456789,
+    "tag": "css",
+    "heading": "CSS Fundamentals",
+    "description": "Get started with CSS, the language for styling web pages. Dive into CSS basics and best practices.",
+    "image": "/images/css-logo.png"
+  },
+  {
+    "id": 34567890,
+    "tag": "javascript",
+    "heading": "JavaScript Programming",
+    "description": "Master JavaScript, the scripting language for web development. Explore its features and capabilities.",
+    "image": "/images/javascript-logo.png"
+  },
+  {
+    "id": 45678901,
+    "tag": "python",
+    "heading": "Python for Beginners",
+    "description": "Begin your Python journey. Learn Python programming from scratch with hands-on exercises.",
+    "image": "/images/python-logo.png"
+  },
+  {
+    "id": 56789012,
+    "tag": "java",
+    "heading": "Java Programming",
+    "description": "Dive into Java, a versatile programming language. Build applications and gain Java expertise.",
+    "image": "/images/java-logo.png"
+  },
+  {
+    "id": 67890123,
+    "tag": "c++",
+    "heading": "C++ Programming",
+    "description": "Explore the world of C++ programming. Create powerful and efficient applications with C++.",
+    "image": "/images/c++-logo.png"
+  },
+  {
+    "id": 78901234,
+    "tag": "ruby",
+    "heading": "Ruby Essentials",
+    "description": "Discover the beauty of Ruby. Learn the fundamentals and build Ruby applications.",
+    "image": "/images/ruby-logo.png"
+  },
+  {
+    "id": 89012345,
+    "tag": "php",
+    "heading": "PHP Web Development",
+    "description": "Get started with PHP for web development. Create dynamic web applications with PHP.",
+    "image": "/images/php-logo.png"
+  },
+  {
+    "id": 90123456,
+    "tag": "c#",
+    "heading": "C# Programming",
+    "description": "Master C#, a versatile and powerful programming language. Develop Windows and web applications.",
+    "image": "/images/c-sharp-logo.png"
+  },
+  {
+    "id": 12345670,
+    "tag": "swift",
+    "heading": "Swift Programming",
+    "description": "Learn Swift, the language for iOS app development. Build amazing apps for iPhone and iPad.",
+    "image": "/images/swift-logo.png"
+  },
+  {
+    "id": 23456781,
+    "tag": "go",
+    "heading": "Go Programming",
+    "description": "Explore the simplicity and efficiency of Go. Build scalable and high-performance applications.",
+    "image": "/images/go-logo.png"
+  },
+  {
+    "id": 34567892,
+    "tag": "typescript",
+    "heading": "TypeScript Fundamentals",
+    "description": "Dive into TypeScript, a superset of JavaScript. Enhance your web development skills.",
+    "image": "/images/typescript-logo.png"
+  },
+  {
+    "id": 45678903,
+    "tag": "Django",
+    "heading": "Django Web Framework",
+    "description": "Learn Django, a high-level Python web framework for building robust and scalable web applications.",
+    "image": "/images/django-logo.png"
+  },
+  {
+    "id": 56789014,
+    "tag": "Ruby on Rails",
+    "heading": "Ruby on Rails",
+    "description": "Master Ruby on Rails, a popular framework for developing web applications with Ruby.",
+    "image": "/images/ruby-on-rails-logo.png"
+  },
+  {
+    "id": 67890125,
+    "tag": "spring",
+    "heading": "Spring Framework",
+    "description": "Explore the Spring Framework for Java. Build enterprise-level Java applications with ease.",
+    "image": "/images/spring-logo.png"
+  },
+  {
+    "id": 78901236,
+    "tag": ".NET Framework",
+    "heading": ".NET Framework",
+    "description": "Develop Windows applications with the .NET Framework. Create powerful and feature-rich software.",
+    "image": "/images/net-logo.png"
+  },
+  {
+    "id": 89012347,
+    "tag": "Flask",
+    "heading": "Flask Web Framework",
+    "description": "Get started with Flask, a micro web framework for Python. Build web apps efficiently.",
+    "image": "/images/flask-logo.png"
+  },
+  {
+    "id": 90123458,
+    "tag": "Laravel",
+    "heading": "Laravel PHP Framework",
+    "description": "Learn Laravel, a PHP framework for web development. Create elegant and modern web applications.",
+    "image": "/images/laravel-logo.png"
+  },
+  {
+    "id": 12345679,
+    "tag": "Node.js",
+    "heading": "Node.js",
+    "description": "Explore Node.js, a JavaScript runtime for building scalable and real-time applications.",
+    "image": "/images/node.js-logo.png"
+  },
+  {
+    "id": 23456780,
+    "tag": "Bootstrap",
+    "heading": "Bootstrap CSS Framework",
+    "description": "Master Bootstrap, a popular CSS framework for creating responsive and stylish web pages.",
+    "image": "/images/bootstrap-logo.png"
+  },
+  {
+    "id": 34567891,
+    "tag": "Unity",
+    "heading": "Unity Game Engine",
+    "description": "Develop games with Unity, a versatile game engine used for both 2D and 3D game development.",
+    "image": "/images/unity-logo.png"
+  },
+  {
+    "id": 45678902,
+    "tag": "Xamarin",
+    "heading": "Xamarin",
+    "description": "Build cross-platform mobile apps with Xamarin, using a single codebase for iOS and Android.",
+    "image": "/images/xamarin-logo.png"
+  },
+  {
+    "id": 56789013,
+    "tag": "React",
+    "heading": "React.js",
+    "description": "Build dynamic and interactive user interfaces with React, a JavaScript library.",
+    "image": "/images/react-logo.png"
+  },
+  {
+    "id": 67890124,
+    "tag": "Angular",
+    "heading": "Angular",
+    "description": "Create powerful and scalable web applications with Angular, a popular front-end framework.",
+    "image": "/images/angular-logo.png"
+  },
+  {
+    "id": 78901235,
+    "tag": "Vue.js",
+    "heading": "Vue.js",
+    "description": "Develop interactive and maintainable web applications using Vue.js, a progressive JavaScript framework.",
+    "image": "/images/vue-logo.png"
+  },
+  {
+    "id": 89012346,
+    "tag": "jQuery",
+    "heading": "jQuery",
+    "description": "Simplify HTML DOM manipulation, event handling, and more with jQuery, a fast and feature-rich JavaScript library.",
+    "image": "/images/jQuery-logo.png"
+  },
+  {
+    "id": 90123457,
+    "tag": "TensorFlow",
+    "heading": "TensorFlow",
+    "description": "Explore TensorFlow, an open-source machine learning framework, for building and training deep neural networks.",
+    "image": "/images/tensorflow-logo.png"
+  },
+  {
+    "id": 12345671,
+    "tag": "Pandas",
+    "heading": "Pandas",
+    "description": "Analyze and manipulate data easily with Pandas, a fast, powerful, and flexible open-source data analysis and manipulation tool.",
+    "image": "/images/pandas-logo.png"
+  },
+  {
+    "id": 23456782,
+    "tag": "NumPy",
+    "heading": "NumPy",
+    "description": "Get started with numerical computing and data analysis using NumPy, a fundamental package for scientific computing with Python.",
+    "image": "/images/numpy-logo.png"
+  },
+  {
+    "id": 34567893,
+    "tag": "Express.js",
+    "heading": "Express.js",
+    "description": "Build fast, unopinionated, and minimalist web applications using Node.js and Express.js, a flexible Node.js web application framework.",
+    "image": "/images/express-logo.png"
+  }
+]
