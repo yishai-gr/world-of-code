@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function ContentCard({ title, description, image, link }) {
   return (
@@ -7,14 +8,14 @@ export default function ContentCard({ title, description, image, link }) {
       <div className="card-content">
         <h2 className="card-title">{title}</h2>
         <p className="card-description">{description}</p>
-        <a
-          href={link}
+        <Link
+          to={link}
           className="card-link"
           target="_blank"
           rel="noopener noreferrer"
         >
           לקורס
-        </a>
+        </Link>
       </div>
     </div>
   );
