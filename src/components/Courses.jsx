@@ -26,7 +26,7 @@ export default function Courses() {
           title={course.heading}
           description={course.description}
           image={course.image}
-          link={"courses/" + course.id}
+          link={"/courses/" + course.id}
         />
       ))}
     </div>
