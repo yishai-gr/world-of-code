@@ -26,7 +26,7 @@ export default function Articles() {
           title={tutorial.heading}
           description={tutorial.description}
           image={tutorial.image}
-          link={"articles/" + tutorial.id}
+          link={"/articles/" + tutorial.id}
         />
       ))}
     </div>

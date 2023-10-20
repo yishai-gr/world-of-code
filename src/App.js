@@ -18,8 +18,8 @@ export default function App() {
           <Route path="/articles" element={<ArticlesPage />} />
           <Route path="/tutorials" element={<TutorialsPage />} />
           <Route path="/courses" element={<CoursesPage />} />
-          <Route path="/:category/:contentId" element={<ContentPage />} />
         </Route>
+        <Route path="/:category/:contentId" element={<ContentPage />} />
       </Routes>
     </BrowserRouter>
   );

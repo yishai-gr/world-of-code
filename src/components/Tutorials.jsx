@@ -26,7 +26,7 @@ export default function Tutorials() {
           title={tutorial.heading}
           description={tutorial.description}
           image={tutorial.image}
-          link={"tutorials/" + tutorial.id}
+          link={"/tutorials/" + tutorial.id}
         />
       ))}
     </div>
