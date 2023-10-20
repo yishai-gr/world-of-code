@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Redirect } from "react-router-dom";
 import Layout from "./Layout";
 import {
   Home,
@@ -20,6 +20,7 @@ export default function App() {
           <Route path="/courses" element={<CoursesPage />} />
         </Route>
         <Route path="/:category/:contentId" element={<ContentPage />} />
+        <Route path="*" element={<Redirect to="/" />} />
       </Routes>
     </BrowserRouter>
   );
