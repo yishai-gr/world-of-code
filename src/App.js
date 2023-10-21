@@ -1,5 +1,10 @@
 import React from "react";
-import { BrowserRouter, Routes, Route, Redirect } from "react-router-dom";
+import {
+  createBrowserRouter,
+  createRoutesFromElements,
+  Route,
+  RouterProvider,
+} from "react-router-dom";
 import Layout from "./Layout";
 import {
   Home,
@@ -9,19 +14,18 @@ import {
   ContentPage,
 } from "./pages/";
 
+const router = createBrowserRouter(
+  createRoutesFromElements(
+    <Route path="/" element={<Layout />}>
+      <Route index element={<Home />} />
+      <Route path="articles" element={<ArticlesPage />} />
+      <Route path="tutorials" element={<TutorialsPage />} />
+      <Route path="courses" element={<CoursesPage />} />
+      <Route path=":category/:contentId" element={<ContentPage />} />
+    </Route>
+  )
+);
+
 export default function App() {
-  return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Layout />}>
-          <Route index element={<Home />} />
-          <Route path="/articles" element={<ArticlesPage />} />
-          <Route path="/tutorials" element={<TutorialsPage />} />
-          <Route path="/courses" element={<CoursesPage />} />
-        </Route>
-        <Route path="/:category/:contentId" element={<ContentPage />} />
-        <Route path="*" element={<Redirect to="/" />} />
-      </Routes>
-    </BrowserRouter>
-  );
+  return <RouterProvider router={router} />;
 }

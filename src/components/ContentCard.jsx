@@ -8,12 +8,7 @@ export default function ContentCard({ title, description, image, link }) {
       <div className="card-content">
         <h2 className="card-title">{title}</h2>
         <p className="card-description">{description}</p>
-        <Link
-          to={link}
-          className="card-link"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <Link to={link} className="card-link">
           לקורס
         </Link>
       </div>
