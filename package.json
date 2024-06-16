@@ -38,6 +38,20 @@
     ]
   },
   "devDependencies": {
-    "netlify-cli": "^16.7.0"
+    "@babel/plugin-transform-class-properties": "^7.24.7",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.24.7",
+    "@babel/plugin-transform-numeric-separator": "^7.24.7",
+    "@babel/plugin-transform-optional-chaining": "^7.24.7",
+    "@babel/plugin-transform-private-methods": "^7.24.7",
+    "@eslint/config-array": "^0.16.0",
+    "@eslint/object-schema": "^2.1.4",
+    "@grpc/grpc-js": "^1.10.9",
+    "@jridgewell/sourcemap-codec": "^1.4.15",
+    "@rollup/plugin-terser": "^0.4.4",
+    "braces": "^3.0.3",
+    "netlify-cli": "^17.27.0",
+    "nth-check": "^2.1.1",
+    "postcss": "^8.4.38",
+    "rimraf": "^5.0.7"
   }
 }
